@@ -1,1 +1,2 @@
 print('Natalia')
+print('Life')
